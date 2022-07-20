@@ -7,7 +7,7 @@ import numpy as np
 import json
 from pandas.api.types import CategoricalDtype
 
-master_df = read_csv('/home/kin672/Kira_GenTB/Creating Summaries from Relevant Files/full_df_7-18.csv')
+master_df = read_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/full_control_db_7-20.csv')
 
 summarized = master_df.groupby(['Drug','Lineage','Resistant']).count()
 summarized = summarized.rename(columns={'ID':'NumStrains'})
@@ -30,5 +30,5 @@ reformat_summarized
 # In[ ]:
 
 
-reformat_summarized.to_csv('//home//kin672//Kira_GenTB//Creating Summaries from Relevant Files//summarized_full_7-18.csv')
+reformat_summarized.to_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/summarized_control_7-20.csv')
 
