@@ -1,0 +1,1175 @@
+{
+    "No lineage files, no vcf": {
+        "tbdata_00001049": [
+            "70"
+        ],
+        "tbdata_00001168": [
+            "k4puyu4k"
+        ],
+        "tbdata_00000776": [
+            "test"
+        ],
+        "tbdata_00001368": [
+            "Test1113"
+        ],
+        "tbdata_00000697": [
+            "POR115S"
+        ],
+        "tbdata_00000967": [
+            "Iso1"
+        ],
+        "tbdata_00000690": [
+            "YA00054057"
+        ]
+    },
+    "More than one .vcf file, did not check for lineage files": {
+        "tbdata_00001445": [
+            "CS5556-LDJ7634-W1_L3_1.sorted"
+        ],
+        "tbdata_00001446": [
+            "S0028_01_fastp",
+            "S0008_01_fastp",
+            "S0021_01_fastp",
+            "S0024_01_fastp"
+        ]
+    },
+    "No vcf, More than one lineage file": {
+        "tbdata_00000984": [
+            "BORA_1"
+        ],
+        "tbdata_00000660": [
+            "2",
+            "9",
+            "5",
+            "3",
+            "8",
+            "7",
+            "4",
+            "6",
+            "1"
+        ],
+        "tbdata_00000642": [
+            "BORA_2",
+            "BORA_3",
+            "BORA_1"
+        ]
+    },
+    "This strainID is present in more than one folder": {
+        "tbdata_00001004": [
+            "Serialsamples.XD00428467.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000880": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001179": [
+            "IonXpress_016_2020_07_14_sample no 2427.sorted"
+        ],
+        "tbdata_00000709": [
+            "Peru4912"
+        ],
+        "tbdata_00001403": [
+            "Serialsamples.XD00134059.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000894": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001408": [
+            "Serialsamples.XD00406342.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000708": [
+            "ERR1873539",
+            "Peru4912"
+        ],
+        "tbdata_00000783": [
+            "ERR1873539"
+        ],
+        "tbdata_00000932": [
+            "Sample No 3213167.IonXpress_022.sorted"
+        ],
+        "tbdata_00000662": [
+            "Peru4912"
+        ],
+        "tbdata_00000895": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001406": [
+            "Serialsamples.XD00198627.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001211": [
+            "IonXpress_001_2020_10_11_sample no 2111.sorted"
+        ],
+        "tbdata_00000753": [
+            "Peru4912"
+        ],
+        "tbdata_00000673": [
+            "ERR257932",
+            "ERR257899"
+        ],
+        "tbdata_00000755": [
+            "Peru4912"
+        ],
+        "tbdata_00001174": [
+            "IonXpress_002_2020_10_11_sample No 2162.sorted"
+        ],
+        "tbdata_00000889": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001373": [
+            "ERR1679587.1.sorted"
+        ],
+        "tbdata_00001437": [
+            "Serialsamples.XD00946200.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001428": [
+            "Serialsamples.XD00905897.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000931": [
+            "TS-1275-LDC9269_L2_1.fq.sorted"
+        ],
+        "tbdata_00000896": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000731": [
+            "Peru4912"
+        ],
+        "tbdata_00001312": [
+            "TEST0248",
+            "TEST0246",
+            "TEST0236",
+            "TEST0210",
+            "TEST0245",
+            "TEST0247",
+            "TEST0238",
+            "TEST0204",
+            "TEST0249",
+            "TEST0217"
+        ],
+        "tbdata_00000641": [
+            "BORA_6"
+        ],
+        "tbdata_00001424": [
+            "Serialsamples.XD00788391.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001423": [
+            "Serialsamples.XD00772001.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000866": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000982": [
+            "TDR216"
+        ],
+        "tbdata_00000667": [
+            "YA00054057"
+        ],
+        "tbdata_00000768": [
+            "Peru4912"
+        ],
+        "tbdata_00000816": [
+            "YA00054080",
+            "YA00054057",
+            "YA00059555"
+        ],
+        "tbdata_00000885": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001255": [
+            "TEST0007",
+            "TEST0010",
+            "TEST0003",
+            "TEST0009",
+            "TEST0004",
+            "TEST0002",
+            "TEST0005",
+            "TEST0006",
+            "TEST0008",
+            "TEST0001"
+        ],
+        "tbdata_00000873": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000981": [
+            "TDR216"
+        ],
+        "tbdata_00000769": [
+            "Peru4912"
+        ],
+        "tbdata_00001427": [
+            "Serialsamples.XD00902339.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001409": [
+            "Serialsamples.XD00422228.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001276": [
+            "TEST0169",
+            "TEST0170",
+            "TEST0161",
+            "TEST0163",
+            "TEST0168",
+            "TEST0167",
+            "TEST0165",
+            "TEST0166",
+            "TEST0171",
+            "TEST0162",
+            "TEST0164"
+        ],
+        "tbdata_00001429": [
+            "Serialsamples.XD00920047.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000744": [
+            "Peru4912"
+        ],
+        "tbdata_00000655": [
+            "TDR_1_S86_L002"
+        ],
+        "tbdata_00000884": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000869": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001283": [
+            "TEST0223",
+            "TEST0224",
+            "TEST0221",
+            "TEST0227",
+            "TEST0226",
+            "TEST0222",
+            "TEST0225"
+        ],
+        "tbdata_00001220": [
+            "3215324 _(S2_B24).sorted"
+        ],
+        "tbdata_00000789": [
+            "Peru4912"
+        ],
+        "tbdata_00000812": [
+            "Sample No 3213540.IonXpress_032.sorted"
+        ],
+        "tbdata_00000712": [
+            "ERR1873539",
+            "Peru4912"
+        ],
+        "tbdata_00000984": [
+            "BORA_1"
+        ],
+        "tbdata_00001261": [
+            "TEST0044",
+            "TEST0069",
+            "TEST0034",
+            "TEST0057",
+            "TEST0065",
+            "TEST0053",
+            "TEST0033",
+            "TEST0049",
+            "TEST0043",
+            "TEST0051",
+            "TEST0039",
+            "TEST0072",
+            "TEST0042",
+            "TEST0035",
+            "TEST0045",
+            "TEST0031",
+            "TEST0056",
+            "TEST0058",
+            "TEST0070",
+            "TEST0059",
+            "TEST0047",
+            "TEST0063",
+            "TEST0037",
+            "TEST0062",
+            "TEST0068",
+            "TEST0048",
+            "TEST0046",
+            "TEST0054",
+            "TEST0052",
+            "TEST0066",
+            "TEST0041",
+            "TEST0055",
+            "TEST0038",
+            "TEST0067",
+            "TEST0061",
+            "TEST0064",
+            "TEST0032",
+            "TEST0036",
+            "TEST0050",
+            "TEST0040"
+        ],
+        "tbdata_00000741": [
+            "Peru4912"
+        ],
+        "tbdata_00001407": [
+            "Serialsamples.XD00400291.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001414": [
+            "Serialsamples.XD00492815.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000664": [
+            "Peru4912"
+        ],
+        "tbdata_00001234": [
+            "3211622.IonXpress_017.sorted"
+        ],
+        "tbdata_00000736": [
+            "ERR1873539",
+            "Peru4912"
+        ],
+        "tbdata_00001317": [
+            "S0100_01",
+            "S0157_01",
+            "S0082_01",
+            "S0107_01",
+            "S0155_01",
+            "S0150_01"
+        ],
+        "tbdata_00000745": [
+            "BORA_16"
+        ],
+        "tbdata_00000890": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000875": [
+            "SRR2101131",
+            "SRR1011507"
+        ],
+        "tbdata_00001279": [
+            "TEST0208",
+            "TEST0203",
+            "TEST0196",
+            "TEST0193",
+            "TEST0201",
+            "TEST0194",
+            "TEST0197",
+            "TEST0198",
+            "TEST0207",
+            "TEST0205",
+            "TEST0192",
+            "TEST0206",
+            "TEST0199",
+            "TEST0209"
+        ],
+        "tbdata_00001265": [
+            "TEST0088",
+            "TEST0083",
+            "TEST0082",
+            "TEST0087",
+            "TEST0084",
+            "TEST0081",
+            "TEST0086",
+            "TEST0085"
+        ],
+        "tbdata_00001176": [
+            "IonXpress_003_2020_10_11_Sample no 2369.sorted"
+        ],
+        "tbdata_00000771": [
+            "ERR1873539",
+            "Peru4912"
+        ],
+        "tbdata_00001431": [
+            "Serialsamples.XD00939481.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000820": [
+            "ERR2512838"
+        ],
+        "tbdata_00000814": [
+            "Peru4912"
+        ],
+        "tbdata_00000588": [
+            "WGS_TB_09-06-2020_Run1_ 356.sorted"
+        ],
+        "tbdata_00001419": [
+            "Serialsamples.XD00492819.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001404": [
+            "Serialsamples.XD00157235.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000678": [
+            "ERR257898"
+        ],
+        "tbdata_00001411": [
+            "Serialsamples.XD00442082.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000878": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001356": [
+            "Test006",
+            "Test092",
+            "Test025",
+            "Test018",
+            "Test079",
+            "Test116",
+            "Test053",
+            "Test028",
+            "Test083",
+            "Test049",
+            "Test098",
+            "Test026",
+            "Test011",
+            "Test060",
+            "Test082",
+            "Test074",
+            "Test040",
+            "Test055",
+            "Test121",
+            "Test069",
+            "Test081",
+            "Test052",
+            "Test016",
+            "Test056",
+            "Test033",
+            "Test054",
+            "Test089",
+            "Test003",
+            "Test050",
+            "Test030",
+            "Test019",
+            "Test020",
+            "Test085",
+            "Test113",
+            "Test096",
+            "Test037",
+            "Test043",
+            "Test070",
+            "Test013",
+            "Test061",
+            "Test022",
+            "Test059",
+            "Test029",
+            "Test058",
+            "Test072",
+            "Test110",
+            "Test065",
+            "Test102",
+            "Test044",
+            "Test023",
+            "Test095",
+            "Test107",
+            "Test106",
+            "Test100",
+            "Test088",
+            "Test114",
+            "Test104",
+            "Test038",
+            "Test027",
+            "Test078",
+            "Test032",
+            "Test031",
+            "Test066",
+            "Test108",
+            "Test084",
+            "Test001",
+            "Test046",
+            "Test093",
+            "Test075",
+            "Test109",
+            "Test021",
+            "Test041",
+            "Test005",
+            "Test099",
+            "Test009",
+            "Test068",
+            "Test010",
+            "Test002",
+            "Test112",
+            "Test073",
+            "Test057",
+            "Test064",
+            "Test097",
+            "Test091",
+            "Test105",
+            "Test071",
+            "Test090",
+            "Test118",
+            "Test035",
+            "Test007",
+            "Test014",
+            "Test077",
+            "Test017",
+            "Test122",
+            "Test051",
+            "Test067",
+            "Test034",
+            "Test120",
+            "Test087",
+            "Test111",
+            "Test008",
+            "Test004",
+            "Test012",
+            "Test119",
+            "Test080",
+            "Test103",
+            "Test024",
+            "Test036",
+            "Test062",
+            "Test047",
+            "Test045",
+            "Test048",
+            "Test117",
+            "Test076",
+            "Test015",
+            "Test042",
+            "Test039",
+            "Test094",
+            "Test086",
+            "Test101",
+            "Test063",
+            "Test115"
+        ],
+        "tbdata_00001410": [
+            "Serialsamples.XD00441843.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000881": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000876": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001308": [
+            "TEST0088",
+            "TEST0044",
+            "TEST0078",
+            "TEST0083",
+            "TEST0069",
+            "TEST0034",
+            "TEST0057",
+            "TEST0065",
+            "TEST0080",
+            "TEST0053",
+            "TEST0033",
+            "TEST0079",
+            "TEST0049",
+            "TEST0043",
+            "TEST0051",
+            "TEST0082",
+            "TEST0087",
+            "TEST0039",
+            "TEST0072",
+            "TEST0042",
+            "TEST0075",
+            "TEST0035",
+            "TEST0045",
+            "TEST0031",
+            "TEST0056",
+            "TEST0076",
+            "TEST0058",
+            "TEST0060",
+            "TEST0070",
+            "TEST0059",
+            "TEST0047",
+            "TEST0063",
+            "TEST0084",
+            "TEST0037",
+            "TEST0062",
+            "TEST0068",
+            "TEST0048",
+            "TEST0073",
+            "TEST0046",
+            "TEST0054",
+            "TEST0052",
+            "TEST0081",
+            "TEST0066",
+            "TEST0041",
+            "TEST0055",
+            "TEST0038",
+            "TEST0067",
+            "TEST0061",
+            "TEST0064",
+            "TEST0032",
+            "TEST0036",
+            "TEST0074",
+            "TEST0086",
+            "TEST0085",
+            "TEST0050",
+            "TEST0040",
+            "TEST0077"
+        ],
+        "tbdata_00001178": [
+            "IonXpress_014_2020_07_14_sample no 2012.sorted"
+        ],
+        "tbdata_00001318": [
+            "S0100_01",
+            "S0157_01",
+            "S0188_01",
+            "S0082_01",
+            "S0181_01",
+            "S0107_01",
+            "S0184_01",
+            "S0179_01",
+            "S0190_01",
+            "S0171_01",
+            "S0155_01",
+            "S0150_01"
+        ],
+        "tbdata_00000740": [
+            "ERR1873539",
+            "Peru4912"
+        ],
+        "tbdata_00000787": [
+            "YA00054080",
+            "YA00054057"
+        ],
+        "tbdata_00001394": [
+            "S0024_C",
+            "S0021_C",
+            "S0008_C",
+            "S0004_C"
+        ],
+        "tbdata_00001254": [
+            "TEST0001"
+        ],
+        "tbdata_00001333": [
+            "S0252_01"
+        ],
+        "tbdata_00000710": [
+            "ERR1873539"
+        ],
+        "tbdata_00001319": [
+            "KP138"
+        ],
+        "tbdata_00000926": [
+            "ERR3077930_2.sorted"
+        ],
+        "tbdata_00000868": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000597": [
+            "WGS_TB_09-06-2020_Run1_ 356.sorted"
+        ],
+        "tbdata_00001420": [
+            "Serialsamples.XD00752314.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001311": [
+            "TEST0174",
+            "TEST0169",
+            "TEST0170",
+            "TEST0200",
+            "TEST0161",
+            "TEST0184",
+            "TEST0180",
+            "TEST0163",
+            "TEST0190",
+            "TEST0196",
+            "TEST0193",
+            "TEST0175",
+            "TEST0157",
+            "TEST0168",
+            "TEST0194",
+            "TEST0183",
+            "TEST0176",
+            "TEST0188",
+            "TEST0177",
+            "TEST0167",
+            "TEST0187",
+            "TEST0197",
+            "TEST0158",
+            "TEST0165",
+            "TEST0181",
+            "TEST0166",
+            "TEST0198",
+            "TEST0159",
+            "TEST0171",
+            "TEST0160",
+            "TEST0173",
+            "TEST0179",
+            "TEST0178",
+            "TEST0192",
+            "TEST0199",
+            "TEST0182",
+            "TEST0162",
+            "TEST0164"
+        ],
+        "tbdata_00000899": [
+            "Sample No 3212705.IonXpress_021.sorted"
+        ],
+        "tbdata_00000663": [
+            "Peru4912"
+        ],
+        "tbdata_00000886": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000887": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001436": [
+            "Serialsamples.XD00946241.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000748": [
+            "Peru4912_1.sorted"
+        ],
+        "tbdata_00000933": [
+            "Sample No 3213167.IonXpress_022.sorted"
+        ],
+        "tbdata_00001422": [
+            "Serialsamples.XD00761832.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000794": [
+            "Sample No 3211622.IonXpress_017.sorted"
+        ],
+        "tbdata_00001259": [
+            "TEST0044",
+            "TEST0034",
+            "TEST0057",
+            "TEST0053",
+            "TEST0033",
+            "TEST0049",
+            "TEST0043",
+            "TEST0051",
+            "TEST0039",
+            "TEST0042",
+            "TEST0035",
+            "TEST0045",
+            "TEST0031",
+            "TEST0056",
+            "TEST0058",
+            "TEST0059",
+            "TEST0047",
+            "TEST0037",
+            "TEST0048",
+            "TEST0046",
+            "TEST0054",
+            "TEST0052",
+            "TEST0041",
+            "TEST0055",
+            "TEST0038",
+            "TEST0032",
+            "TEST0036",
+            "TEST0050",
+            "TEST0040"
+        ],
+        "tbdata_00000779": [
+            "ERR1873539"
+        ],
+        "tbdata_00000870": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001405": [
+            "Serialsamples.XD00193220.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000391": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001274": [
+            "TEST0174",
+            "TEST0169",
+            "TEST0170",
+            "TEST0161",
+            "TEST0180",
+            "TEST0163",
+            "TEST0175",
+            "TEST0168",
+            "TEST0176",
+            "TEST0177",
+            "TEST0167",
+            "TEST0165",
+            "TEST0181",
+            "TEST0166",
+            "TEST0171",
+            "TEST0173",
+            "TEST0179",
+            "TEST0178",
+            "TEST0162",
+            "TEST0164"
+        ],
+        "tbdata_00001299": [
+            "S0030_01",
+            "S0004_01",
+            "S0008_01"
+        ],
+        "tbdata_00001425": [
+            "Serialsamples.XD00902313.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001063": [
+            "CS5465-LDJ7658-W1_L3_1.fq.sorted"
+        ],
+        "tbdata_00000781": [
+            "ERR1873539"
+        ],
+        "tbdata_00001172": [
+            "IonXpress_001_2020_10_11_sample no 2111.sorted"
+        ],
+        "tbdata_00001400": [
+            "S0107_01",
+            "T0107C"
+        ],
+        "tbdata_00000795": [
+            "Sample No 3211622.IonXpress_017.sorted"
+        ],
+        "tbdata_00000915": [
+            "SAmple No 3213540.IonXpress_024.sorted"
+        ],
+        "tbdata_00001416": [
+            "Serialsamples.XD00422725.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000648": [
+            "Peru4912"
+        ],
+        "tbdata_00001418": [
+            "Serialsamples.XD00492816.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000863": [
+            "CS-5508-LDC9263_L2_1.fq.sorted"
+        ],
+        "tbdata_00001421": [
+            "Serialsamples.XD00759101.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000750": [
+            "Peru4912"
+        ],
+        "tbdata_00001294": [
+            "KP102"
+        ],
+        "tbdata_00001028": [
+            "Erdmann"
+        ],
+        "tbdata_00001324": [
+            "S0254_01",
+            "S0220_01",
+            "S0251_01",
+            "S0249_01",
+            "S0212_01",
+            "S0214_01"
+        ],
+        "tbdata_00001303": [
+            "S0045_01",
+            "S0021_01",
+            "S0028_01"
+        ],
+        "tbdata_00000849": [
+            "Sample No 3213670.IonXpress_017.sorted"
+        ],
+        "tbdata_00001434": [
+            "Serialsamples.XD00981748.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001335": [
+            "S0143_01",
+            "S0089_01"
+        ],
+        "tbdata_00000914": [
+            "RSample No3213169.IonXpress_023.sorted"
+        ],
+        "tbdata_00000642": [
+            "BORA_37",
+            "BORA_35",
+            "BORA_1"
+        ],
+        "tbdata_00001280": [
+            "TEST0220",
+            "TEST0208",
+            "TEST0211",
+            "TEST0200",
+            "TEST0203",
+            "TEST0219",
+            "TEST0196",
+            "TEST0193",
+            "TEST0212",
+            "TEST0201",
+            "TEST0194",
+            "TEST0214",
+            "TEST0197",
+            "TEST0198",
+            "TEST0207",
+            "TEST0213",
+            "TEST0205",
+            "TEST0216",
+            "TEST0215",
+            "TEST0192",
+            "TEST0206",
+            "TEST0199",
+            "TEST0209"
+        ],
+        "tbdata_00000874": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001430": [
+            "Serialsamples.XD00939385.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000612": [
+            "WGS_TB_09-06-2020_Run1_ 356.sorted"
+        ],
+        "tbdata_00000916": [
+            "SAmple No 3213540.IonXpress_024.sorted"
+        ],
+        "tbdata_00001256": [
+            "TEST0012",
+            "TEST0013",
+            "TEST0015",
+            "TEST0016",
+            "TEST0026",
+            "TEST0028",
+            "TEST0014",
+            "TEST0021",
+            "TEST0017",
+            "TEST0020",
+            "TEST0024",
+            "TEST0022",
+            "TEST0029",
+            "TEST0011",
+            "TEST0027",
+            "TEST0023"
+        ],
+        "tbdata_00001426": [
+            "Serialsamples.XD00902327.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001023": [
+            "2021-616"
+        ],
+        "tbdata_00000911": [
+            "CS-5488-LDC9261_L2_1.fq.sorted"
+        ],
+        "tbdata_00000888": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000774": [
+            "ERR1664619"
+        ],
+        "tbdata_00000788": [
+            "ERR1873539"
+        ],
+        "tbdata_00001169": [
+            "107_01_RefAl"
+        ],
+        "tbdata_00001257": [
+            "TEST0012",
+            "TEST0013",
+            "TEST0015",
+            "TEST0016",
+            "TEST0030",
+            "TEST0026",
+            "TEST0028",
+            "TEST0014",
+            "TEST0021",
+            "TEST0017",
+            "TEST0020",
+            "TEST0024",
+            "TEST0022",
+            "TEST0029",
+            "TEST0011",
+            "TEST0027",
+            "TEST0023"
+        ],
+        "tbdata_00000784": [
+            "Peru4912"
+        ],
+        "tbdata_00001160": [
+            "185-01_S4_L001",
+            "185_01_RefAl"
+        ],
+        "tbdata_00001327": [
+            "S0077_01",
+            "S0079_01"
+        ],
+        "tbdata_00000883": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00001415": [
+            "Serialsamples.XD00422412.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001412": [
+            "Serialsamples.XD00456534.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001209": [
+            "IonXpress_001_2020_10_11_sample no 2111.sorted",
+            "IonXpress_004_2020_10_11_sample no 2991.sorted",
+            "IonXpress_002_2020_10_11_sample No 2162.sorted",
+            "IonXpress_014_2020_07_14_sample no 2012.sorted",
+            "IonXpress_003_2020_10_11_Sample no 2369.sorted"
+        ],
+        "tbdata_00001218": [
+            "3215324 (S2 B 24).sorted"
+        ],
+        "tbdata_00000743": [
+            "Peru4912"
+        ],
+        "tbdata_00000800": [
+            "Sample No 3213637.IonXpress_022.sorted"
+        ],
+        "tbdata_00001017": [
+            "BORA_5"
+        ],
+        "tbdata_00001372": [
+            "ERR1679585.1.sorted"
+        ],
+        "tbdata_00001433": [
+            "Serialsamples.XD00946200.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00000616": [
+            "WGS_TB_11-10-2020_2111.sorted"
+        ],
+        "tbdata_00000877": [
+            "SRR2101131",
+            "SRR1011507",
+            "SRR5341216"
+        ],
+        "tbdata_00000935": [
+            "RSample No3213169.IonXpress_023.sorted"
+        ],
+        "tbdata_00001266": [
+            "TEST0060",
+            "TEST0073"
+        ],
+        "tbdata_00000754": [
+            "Peru4912"
+        ],
+        "tbdata_00000730": [
+            "ERR1873539"
+        ],
+        "tbdata_00001285": [
+            "TEST0223",
+            "TEST0240",
+            "TEST0237",
+            "TEST0235",
+            "TEST0224",
+            "TEST0221",
+            "TEST0227",
+            "TEST0233",
+            "TEST0226",
+            "TEST0232",
+            "TEST0243",
+            "TEST0241",
+            "TEST0222",
+            "TEST0242",
+            "TEST0228",
+            "TEST0229",
+            "TEST0225",
+            "TEST0244",
+            "TEST0239",
+            "TEST0230",
+            "TEST0231",
+            "TEST0234"
+        ],
+        "tbdata_00000598": [
+            "WGS_TB_09-06-2020_Run1_ 356.sorted"
+        ],
+        "tbdata_00001161": [
+            "107_01_RefAl",
+            "107-01_S6_L001"
+        ],
+        "tbdata_00001177": [
+            "IonXpress_004_2020_10_11_sample no 2991.sorted"
+        ],
+        "tbdata_00001029": [
+            "TDR58",
+            "DA408",
+            "DA824",
+            "Erdmann",
+            "TDR36",
+            "TDR51"
+        ],
+        "tbdata_00001258": [
+            "TEST0044",
+            "TEST0034",
+            "TEST0033",
+            "TEST0043",
+            "TEST0039",
+            "TEST0042",
+            "TEST0035",
+            "TEST0045",
+            "TEST0031",
+            "TEST0037",
+            "TEST0046",
+            "TEST0041",
+            "TEST0038",
+            "TEST0032",
+            "TEST0036",
+            "TEST0040"
+        ],
+        "tbdata_00001435": [
+            "Serialsamples.XD00946265.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001284": [
+            "TEST0223",
+            "TEST0237",
+            "TEST0235",
+            "TEST0224",
+            "TEST0221",
+            "TEST0227",
+            "TEST0233",
+            "TEST0226",
+            "TEST0232",
+            "TEST0222",
+            "TEST0228",
+            "TEST0229",
+            "TEST0225",
+            "TEST0230",
+            "TEST0231",
+            "TEST0234"
+        ],
+        "tbdata_00001432": [
+            "Serialsamples.XD00944189.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ],
+        "tbdata_00001346": [
+            "S0239_01"
+        ],
+        "tbdata_00001201": [
+            "132416"
+        ],
+        "tbdata_00001402": [
+            "Serialsamples.XD00127950.dedup_reads.bam.indelqualed_reads.bam.vars"
+        ]
+    },
+    ".json file is empty": [
+        "tbdata_00000762/Peru4912_cut.matrix.json"
+    ],
+    ".json is not in random forest format": [
+        "tbdata_00000767/ERR1873539_cut.matrix.json",
+        "tbdata_00000759/ERR1873539_cut.matrix.json",
+        "tbdata_00000758/ERR1873539_cut.matrix.json",
+        "tbdata_00000773/Peru4912_cut.matrix.json",
+        "tbdata_00000786/Peru4912_cut.matrix.json",
+        "tbdata_00000763/Peru4912_cut.matrix.json",
+        "tbdata_00000785/Peru4912_cut.matrix.json",
+        "tbdata_00000777/ERR1873539_cut.matrix.json",
+        "tbdata_00000778/ERR1873539_cut.matrix.json",
+        "tbdata_00001164/107_01_HostUn_cut.matrix.json",
+        "tbdata_00001164/107-01_S6_L001_cut.matrix.json",
+        "tbdata_00001164/107_01_RefAl_cut.matrix.json",
+        "tbdata_00000815/Peru4912_cut.matrix.json",
+        "tbdata_00000764/Peru4912_cut.matrix.json",
+        "tbdata_00000782/ERR1873539_cut.matrix.json"
+    ]
+}

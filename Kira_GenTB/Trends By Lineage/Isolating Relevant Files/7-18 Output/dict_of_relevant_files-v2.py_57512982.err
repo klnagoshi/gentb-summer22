@@ -1,0 +1,22 @@
+/bin/sh: -c: line 0: syntax error near unexpected token `('
+/bin/sh: -c: line 0: `/home/kin672/anaconda3/envs/jupytervenv/bin/fast-lineage-caller //n//groups//gentb_www//predictData//tbdata_00000835//TSVC_variants_IonXpress_017 (2).vcf --noheader --count'
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 3211379_IonXpress_021.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: QC_IonXpress_028.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 321528_IonXpress_018.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 321262_ionXpress_017.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 3211380_IonXpress_022.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 3211198_IonXpress_020.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 321769_IonXpress_019.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 3212401_IonXpress_023.vcf
+usage: fast-lineage-caller [-h] [--out OUT] [--noheader] [--scheme SCHEME] [--keep] [--count] [--pass] input_file
+fast-lineage-caller: error: unrecognized arguments: No 3213465_IonXpress_024.vcf
+/bin/sh: -c: line 0: syntax error near unexpected token `('
+/bin/sh: -c: line 0: `/home/kin672/anaconda3/envs/jupytervenv/bin/fast-lineage-caller //n//groups//gentb_www//predictData//tbdata_00000993//TSVC_variants_IonXpress_017 (3).vcf --noheader --count'

@@ -1,0 +1,11 @@
+Total number of strains processed: 8120.0
+
+Drug/ID pairs that did not have 3 or 4 outputs in the .json: 
+
+Json files without 13 drugs: 
+
+Lineage file could not be read: BORA_1, 2, 9, 5, 3, 8, 7, 4, 6, 1
+
+No freschi lineage found: ERR2677407, por1A, X101_S12, M45_S6, K67_S2, ERR2677386, kr-s1
+
+Lineage output is blank: {'Fast lineage caller was called': [], 'Not called': []}

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/kin672/Kira_GenTB/Isolating Relevant Files/Fill-Blank-Lineages.py", line 69, in <module>
+    pd.to_csv(full_df, '/home/kin672/Kira_GenTB/Creating Summaries from Relevant Files/full_df_7-18.csv', index = False)
+  File "/home/kin672/anaconda3/lib/python3.9/site-packages/pandas/__init__.py", line 261, in __getattr__
+    raise AttributeError(f"module 'pandas' has no attribute '{name}'")
+AttributeError: module 'pandas' has no attribute 'to_csv'
