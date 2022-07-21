@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[47]:
+# In[1]:
 
 
 import pandas as pd
@@ -10,7 +10,7 @@ import json
 import glob, os, subprocess
 
 
-# In[123]:
+# In[6]:
 
 
 # Read all files
@@ -18,7 +18,7 @@ target_cols = ['Isolate', 'RIFAMPICIN','ISONIAZID', 'ETHAMBUTOL', 'PYRAZINAMIDE'
 db = pd.read_csv('/n/data1/hms/dbmi/farhat/anna/focus_cnn/master_table_resistance.csv', usecols = target_cols)
 
 
-# In[124]:
+# In[7]:
 
 
 db = db.rename(columns={'Isolate':'Isolate', 'RIFAMPICIN':'rif','ISONIAZID':'inh', 'ETHAMBUTOL':'emb', 'PYRAZINAMIDE':'pza', 'STREPTOMYCIN':'str', 'CAPREOMYCIN':'cap', 'AMIKACIN':'amk', 'CIPROFLOXACIN':'cip', 'KANAMYCIN':'kan', 'LEVOFLOXACIN':'levo', 'OFLOXACIN':'oflx', 'PARA-AMINOSALICYLIC_ACID':'pas', 'ETHIONAMIDE':'eth'})
@@ -80,25 +80,29 @@ not_cryptic = os.listdir('/n/data1/hms/dbmi/farhat/rollingDB/genomic_data/')
 # In[100]:
 
 
-errors = {'Didnt have folder associated: ': []}
+errors = {'Didnt have folder associated: ': [], 'Didnt have .vcf associated: ':[]}
 vcfs = {}
 
 for ID in db.Isolate:
     path = 'NONE'
-    if ID in cryptic:
-        path = '/n/data1/hms/dbmi/farhat/rollingDB/cryptic_output/' + str(ID) + '/pilon/' + str(ID) + '.vcf'
-        vcfs[ID] = path
-    elif ID in not_cryptic:
-        path = '/n/data1/hms/dbmi/farhat/rollingDB/genomic_data/' + str(ID) + '/pilon/' + str(ID) + '.vcf'
-        vcfs[ID] = path
-    else: 
-        errors['Didnt have folder associated: '].append(ID)
+    if ID not in no_vcfs:
+        if ID in cryptic:
+            path = '/n/data1/hms/dbmi/farhat/rollingDB/cryptic_output/' + str(ID) + '/pilon/' + str(ID) + '.vcf'
+            vcfs[ID] = path
+        elif ID in not_cryptic:
+            path = '/n/data1/hms/dbmi/farhat/rollingDB/genomic_data/' + str(ID) + '/pilon/' + str(ID) + '.vcf'
+            vcfs[ID] = path
+        else: 
+            errors['Didnt have folder associated: '].append(ID)
+            continue
+    else:
+        errors['Didnt have .vcf associated: '].append(ID)
         continue
     
 lineage_table = get_lineages(vcfs)
 
 
-# In[119]:
+# In[8]:
 
 
 master_df = pd.DataFrame({'ID':[], 'Drug':[], 'Resistant':[], 'Lineage':[]})
@@ -115,21 +119,20 @@ for ID in db.Isolate:
     
     # First, pull lineage value from the table generated earlier.
     if ID in errors.get('Didnt have folder associated: '):
-        freschi_lineage = 'No VCF'
+        freschi_lineage = 'No folder'
     else:
         freschi_lineage = lineage_table.loc[lineage_table.Isolate == ID, 'Lineage'].to_list()
         freschi_lineage = [str(i).replace('(1/1)', '') for i in freschi_lineage]
         freschi_lineage = ', '.join(freschi_lineage)
     
     # Create a dataframe with all of the information for this isolate that will be added to the bottom of our master dataframe
-    temp = pd.DataFrame(db.loc[db.Isolate == ID, drugs]).reset_index()
+    temp = pd.DataFrame(db.loc[db.Isolate == ID, drugs]).transpose().reset_index()
     temp.columns = ['Drug', 'Resistant']
     temp['Lineage'] = freschi_lineage
     temp.insert(0, 'ID', [ID]*13, allow_duplicates = True)
     
     master_df = pd.concat([master_df, temp])
     
-
 
 # In[152]:
 
