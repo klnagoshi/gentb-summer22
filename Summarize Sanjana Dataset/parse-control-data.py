@@ -60,7 +60,6 @@ def get_lineages(fNames):
 y = pd.read_csv('/n/data1/hms/dbmi/farhat/rollingDB/genomic_data/strains_with_no_vcf', escapechar='\\', sep = '|', header = None)[0]
 x = pd.read_csv('/n/data1/hms/dbmi/farhat/rollingDB/genomic_data/strains_with_no_vcf_no_errors', escapechar='\\', sep = '|', header = None)[0]
 x = x[0:(len(x)-2)]
-x
 
 
 # In[93]:
@@ -134,8 +133,9 @@ for ID in db.Isolate:
     master_df = pd.concat([master_df, temp])
     
 
+
 # In[152]:
 
 
-master_df.to_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/full_control_db_7-20.csv', index = False)
+master_df.to_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/full_control_db_7-24.csv', index = False)
 

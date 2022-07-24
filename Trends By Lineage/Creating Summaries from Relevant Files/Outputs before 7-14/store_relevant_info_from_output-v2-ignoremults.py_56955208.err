@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/home/kin672/Kira_GenTB/Creating Summaries from Relevant Files/store_relevant_info_from_output-v2-ignoremults.py", line 52, in <module>
-    freschi_lineage = freschi_lineage[0]
-IndexError: list index out of range
