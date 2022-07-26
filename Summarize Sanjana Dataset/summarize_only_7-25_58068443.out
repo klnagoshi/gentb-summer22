@@ -1,0 +1,4446 @@
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+amk
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+cap
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+cip
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+emb
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+eth
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+inh
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+kan
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+levo
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+oflx
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+pas
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+pza
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+rif
+Resist: Series([], Name: NumStrains, dtype: int64)
+1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1,2.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,1.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.3.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.2,4.4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,1.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,2.2.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.1.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.1.3,4.5
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+1.2.2,3.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2,4.3.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2,4.3.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,1.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.1.1.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.3.4.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,4.8
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,6,BOV_AFRI
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1,BOV_AFRI
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+2.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+3,4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+3.1.2.2,1.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,1.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1,2.2.1,4.8
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.1,2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.1.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,1.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2,4.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,2.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.4.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.1.2.1,4.7
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.1,4.7
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.2.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3,2.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.2.1,4.3.4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,1.1.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,2.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,3.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.3,4.3.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2,3.1.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.3.4.2.1,1.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.3.4.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.1,4.6.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.4.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.5,1.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.1.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.6.2.2
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.7
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.1.1.3
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.8,4.3.4.1
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+4.9
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+5
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+5,6,BOV_AFRI
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+6
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+6,BOV_AFRI
+str
+Resist: Series([], Name: NumStrains, dtype: int64)
+BOV_AFRI
+str

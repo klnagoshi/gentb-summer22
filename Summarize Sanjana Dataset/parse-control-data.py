@@ -112,18 +112,22 @@ drugs = ['rif','inh','emb','pza','str','cap','amk','cip','kan','levo','oflx', 'p
 
 
 # In[ ]:
-
+IDs_with_lineages = lineage_table['Isolate']
 
 for ID in db.Isolate:
-    
-    # First, pull lineage value from the table generated earlier.
+    # If there's definitely no folder
     if ID in errors.get('Didnt have folder associated: '):
         freschi_lineage = 'No folder'
-    else:
+    elif ID in errors.get('Didnt have .vcf associated: '):
+        freschi_lineage = 'No vcf'
+    # Pull lineage value from the table generated earlier.
+    elif ID in IDs_with_lineages:
         freschi_lineage = lineage_table.loc[lineage_table.Isolate == ID, 'Lineage'].to_list()
         freschi_lineage = [str(i).replace('(1/1)', '') for i in freschi_lineage]
         freschi_lineage = ', '.join(freschi_lineage)
-    
+    else:
+        freschi_lineage = 'Lineage caller not run for some reason'
+
     # Create a dataframe with all of the information for this isolate that will be added to the bottom of our master dataframe
     temp = pd.DataFrame(db.loc[db.Isolate == ID, drugs]).transpose().reset_index()
     temp.columns = ['Drug', 'Resistant']
@@ -132,6 +136,8 @@ for ID in db.Isolate:
     
     master_df = pd.concat([master_df, temp])
     
+print(len(master_df))
+    
 
 
 # In[152]:
@@ -139,3 +145,4 @@ for ID in db.Isolate:
 
 master_df.to_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/full_control_db_7-24.csv', index = False)
 
+print(errors)

@@ -1,0 +1,4 @@
+  File "/home/kin672/gentb-summer22/Summarize Sanjana Dataset/summarize_only-no_nas.py", line 31
+    if (len(num_resistant) == 1)
+                                ^
+SyntaxError: invalid syntax
