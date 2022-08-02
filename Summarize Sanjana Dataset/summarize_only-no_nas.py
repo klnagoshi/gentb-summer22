@@ -8,12 +8,9 @@ import json
 from pandas.api.types import CategoricalDtype
 
 master_df = pd.read_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/full_control_db_7-25.csv')
-master_df = master_df.loc[[str(i)[0:1] in ['1','2','3','4','5','6','B'] for i in master_df.Lineage], :]
+master_df = master_df[[str(i)[0:1] in ['1','2','3','4','5','6','B'] for i in master_df.Lineage]]
 
-def keep_id(ID):
-    return (not any((pd.isna(master_df.loc[master_df.ID == ID, 'Resistant']))))
-
-master_df = master_df.loc[[keep_id(i) for i in master_df['ID']], :]
+master_df = master_df[[not any(pd.isna(master_df.loc[master_df.ID == i, 'Resistant'])) for i in master_df['ID']]]
 print('Number of IDs included: ' + str(len(master_df['ID'].unique())))
 
 summarized = master_df.groupby(['Drug','Lineage','Resistant']).count()
@@ -48,5 +45,5 @@ for drug in np.unique(summarized.Drug):
 # In[ ]:
 
 
-reformat_summarized.to_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/summarized_control_7-26.csv', index = False)
+reformat_summarized.to_csv('/home/kin672/gentb-summer22/Summarize Sanjana Dataset/summarized_control_no_nas_8-1.csv', index = False)
 
