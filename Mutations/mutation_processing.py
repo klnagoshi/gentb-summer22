@@ -39,7 +39,7 @@ for isolate in full_db.ID.unique():
         oflx = len(all_mutations[(all_mutations['isolate'] == isolate) & (all_mutations['drug'] == 'oflx')])
         pas = len(all_mutations[(all_mutations['isolate'] == isolate) & (all_mutations['drug'] == 'pas')])
         eth = len(all_mutations[(all_mutations['isolate'] == isolate) & (all_mutations['drug'] == 'eth')])
-        not_specified = num_total_mutations - np.sum([rif, inh, emb, pza, strep, cap, amk, cip, kan, levo, oflx, pas, eth]) 
+        not_specified = num_total_mutations - len(all_mutations.loc[all_mutations['isolate'] == isolate, 'GenTB Mutation'].values.unique()) 
         total = num_total_mutations
     else:
         total, rif, inh, emb, pza, strep, cap, amk, cip, kan, levo, oflx, pas, eth, not_specified = 0

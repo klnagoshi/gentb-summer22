@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/kin672/gentb-summer22/Mutations/mutation_processing.py", line 42, in <module>
+    not_specified = num_total_mutations - len(all_mutations.loc[all_mutations['isolate'] == isolate, 'GenTB Mutation'].values.unique()) 
+AttributeError: 'numpy.ndarray' object has no attribute 'unique'
