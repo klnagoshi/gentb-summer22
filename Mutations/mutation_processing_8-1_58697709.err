@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/home/kin672/gentb-summer22/Mutations/mutation_processing.py", line 107, in <module>
-    pd.DataFrame(summarize_mutations(drug)).to_csv('/home/kin672/gentb-summer22/Mutations/Breakdown per Drug/' + str(drug) + '_summary_of_mutations.csv', index = False)
-  File "/home/kin672/gentb-summer22/Mutations/mutation_processing.py", line 94, in summarize_mutations
-    num_WHO_mutations, num_high_confidence, num_low_confidence = 0
-TypeError: cannot unpack non-iterable int object

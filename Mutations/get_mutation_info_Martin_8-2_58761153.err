@@ -1,0 +1,92 @@
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())
+/home/kin672/gentb-summer22/Mutations/get_mutation_info_Martin.py:34: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  mut_list = list(pd.Series(mut_list).unique())

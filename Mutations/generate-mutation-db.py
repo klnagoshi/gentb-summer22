@@ -37,6 +37,7 @@ def break_down(string):
 final_db = pd.DataFrame({'isolate':[], 'drug':[], 'confidence':[], 'gene':[], 'genome_index':[], 'GenTB Mutation':[], 'WHO Variant':[]})
 problems = {'The JSON is weird': [], 'This mutation is weird': {'Isolate':[], 'Mutation':[]}} # In theory, there should be no more weird JSONs
 mutation_count = {'Isolate':[], 'Num_Mutations':[]}
+all_mutations_including_unidentified = {'isolate':[], 'GenTB Mutation':[]}
 
 prefix = '//n//groups//gentb_www//predictData//'
 
@@ -78,6 +79,9 @@ for strainID in relevant_files:
             problems['This mutation is weird']['Isolate'].append(str(strainID))
             problems['This mutation is weird']['Mutation'].append(str(mut))
             continue
+        
+        all_mutations_including_unidentified['isolate'].append(str(strainID))
+        all_mutations_including_unidentified['GenTB Mutation'].append(str(mut))
             
         candidates = mutations.loc[mutations.genome_index == x['genome_index'],:]
         
@@ -97,9 +101,13 @@ for strainID in relevant_files:
         temp['GenTB Mutation'] = x['original']
         
         final_db = pd.concat([final_db, temp], ignore_index = True)
+
+all_mutations_including_unidentified = pd.DataFrame(all_mutations_including_unidentified)
+identified_mutations = final_db['GenTB Mutation'].unique()
+unidentified_mutations = all_mutations_including_unidentified.loc[[mut not in identified_mutations for mut in all_mutations_including_unidentified['GenTB Mutation']], :]
         
-        
-final_db.to_csv('/home/kin672/gentb-summer22/Mutations/all_mutations.csv', index = False)
+unidentified_mutations.to_csv('/home/kin672/gentb-summer22/Mutations/all_unidentified_mutations.csv', index = False)
+final_db.to_csv('/home/kin672/gentb-summer22/Mutations/all_identified_mutations.csv', index = False)
 pd.DataFrame(problems['The JSON is weird']).to_csv('/home/kin672/gentb-summer22/Mutations/Weird_JSONS.csv', index = False)
 pd.DataFrame(problems['This mutation is weird']).to_csv('/home/kin672/gentb-summer22/Mutations/Weird_Mutations.csv', index = False)
 pd.DataFrame(mutation_count).to_csv('/home/kin672/gentb-summer22/Mutations/Mutation_Count.csv', index = False)

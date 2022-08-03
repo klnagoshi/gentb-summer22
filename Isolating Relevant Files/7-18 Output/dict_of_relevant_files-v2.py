@@ -45,7 +45,7 @@ def get_lineages(fNames):
 
 # Create dictionary with format {STRAIN ID: [lineage.txt file, matrix.json file]}
 target_dict = {}
-IDs_with_errors = {'No lineage files, no vcf':{}, 'More than one .vcf file, did not check for lineage files': {}, 'No vcf, More than one lineage file':{}, 'This strainID is present in more than one folder':{}}
+IDs_with_errors = {'No lineage files, no vcf':{}, 'More than one .vcf file, did not check for lineage files': {}, 'No vcf, More than one lineage file':{}, "There are at least two lineage.txt files associated with this strainID":{}}
 predictData = os.listdir('//n//groups//gentb_www//predictData')
 empty_json = []
 vcf_dict = {}
@@ -141,10 +141,10 @@ for folder in predictData:
                     vcf_dict[strainID] = '//n//groups//gentb_www//predictData//' + folder + '//' + vcf_files[0]
                 # This means there are at least two lineage files associated with this one strainID -- it is possible that a .vcf file will be found later though - for now, skip this file (don't overwrite)
                 else:
-                    if folder not in IDs_with_errors['This strainID is present in more than one folder'].keys():
-                        IDs_with_errors['This strainID is present in more than one folder'][folder] = [strainID]
-                    elif strainID not in IDs_with_errors['This strainID is present in more than one folder'].get(folder):
-                        IDs_with_errors['This strainID is present in more than one folder'][folder].append(strainID)
+                    if folder not in IDs_with_errors["There are at least two lineage.txt files associated with this strainID"].keys():
+                        IDs_with_errors["There are at least two lineage.txt files associated with this strainID"][folder] = [strainID]
+                    elif strainID not in IDs_with_errors["There are at least two lineage.txt files associated with this strainID"].get(folder):
+                        IDs_with_errors["There are at least two lineage.txt files associated with this strainID"][folder].append(strainID)
                     continue
             else:
                 unique_json = unique_json + 1

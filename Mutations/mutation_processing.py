@@ -11,7 +11,8 @@ import numpy as np
 # In[47]:
 
 
-all_mutations = pd.read_csv('/home/kin672/gentb-summer22/Mutations/all_mutations.csv')
+all_mutations = pd.read_csv('/home/kin672/gentb-summer22/Mutations/all_identified_mutations.csv')
+# unidentified = pd.read_csv('/home/kin672/gentb-summer22/Mutations/all_unidentified_mutations.csv')
 mutation_count = pd.read_csv('/home/kin672/gentb-summer22/Mutations/Mutation_Count.csv')
 full_db = pd.read_csv('/home/kin672/gentb-summer22/Creating Summaries from Relevant Files/7-18 Output/full_df_7-18.csv')
 
@@ -39,7 +40,7 @@ for isolate in full_db.ID.unique():
         oflx = len(all_mutations[(all_mutations['isolate'] == isolate) & (all_mutations['drug'] == 'oflx')])
         pas = len(all_mutations[(all_mutations['isolate'] == isolate) & (all_mutations['drug'] == 'pas')])
         eth = len(all_mutations[(all_mutations['isolate'] == isolate) & (all_mutations['drug'] == 'eth')])
-        not_specified = num_total_mutations - len(all_mutations.loc[all_mutations['isolate'] == isolate, 'GenTB Mutation'].values.unique()) 
+        not_specified = num_total_mutations - len(np.unique(all_mutations.loc[all_mutations['isolate'] == isolate, 'GenTB Mutation'].values)) 
         total = num_total_mutations
     else:
         total, rif, inh, emb, pza, strep, cap, amk, cip, kan, levo, oflx, pas, eth, not_specified = 0
